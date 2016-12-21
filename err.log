@@ -1,0 +1,240 @@
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+/Users/wudi/Downloads/works/straws/bin/straw:77
+		throw error;
+		^
+
+Error: bind EADDRINUSE null:8989
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at cb (net.js:1299:16)
+    at rr (cluster.js:588:14)
+    at Worker.<anonymous> (cluster.js:558:9)
+    at process.<anonymous> (cluster.js:710:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)

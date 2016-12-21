@@ -1,0 +1,540 @@
+[master] start master...
+[worker] start worker ...2
+worker2
+1452584746680 'Express server listening on port 8989'
+[master] listening: worker2,pid:7091, Address:0.0.0.0:8989
+[worker] start worker ...1
+worker1
+1452584746693 'Express server listening on port 8989'
+[master] listening: worker1,pid:7089, Address:0.0.0.0:8989
+[worker] start worker ...3
+worker3
+1452584746703 'Express server listening on port 8989'
+[master] listening: worker3,pid:7093, Address:0.0.0.0:8989
+[worker] start worker ...4
+worker4
+1452584746717 'Express server listening on port 8989'
+[master] listening: worker4,pid:7095, Address:0.0.0.0:8989
+[0mGET / [32m200 [0m7.316 ms - 1181[0m
+[0mGET /css/main.css [32m200 [0m4.527 ms - 4850[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m2.546 ms - 117263[0m
+[master] start master...
+[worker] start worker ...3
+worker3
+1452584878975 'Express server listening on port 8989'
+[master] listening: worker3,pid:7226, Address:0.0.0.0:8989
+[worker] start worker ...4
+worker4
+1452584878985 'Express server listening on port 8989'
+[master] listening: worker4,pid:7228, Address:0.0.0.0:8989
+[worker] start worker ...1
+worker1
+1452584879003 'Express server listening on port 8989'
+[master] listening: worker1,pid:7222, Address:0.0.0.0:8989
+[worker] start worker ...2
+worker2
+1452584879011 'Express server listening on port 8989'
+[master] listening: worker2,pid:7224, Address:0.0.0.0:8989
+[0mGET / [36m304 [0m7.516 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m1.337 ms - -[0m
+[0mGET /css/main.css [36m304 [0m3.659 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m2.314 ms - 1150[0m
+[0mGET / [36m304 [0m5.324 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.320 ms - -[0m
+[0mGET /css/main.css [36m304 [0m0.458 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m2.158 ms - 1150[0m
+[0mGET /favicon.ico [0m- [0m- ms - -[0m
+[0mGET /favicon.ico [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.423 ms - 1222[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m0.626 ms - 117263[0m
+[0mGET /css/main.css [32m200 [0m0.321 ms - 4850[0m
+[0mGET /js/index.js [32m200 [0m0.395 ms - 2559[0m
+[0mGET /js/font_select.js [32m200 [0m1.186 ms - 2940[0m
+[0mGET /js/UILoading.js [32m200 [0m0.559 ms - 1657[0m
+[0mGET /loadFontlist [32m200 [0m1.061 ms - 2[0m
+dd.ttf
+[0mGET /css/glyphicons-halflings-regular.woff2 [32m200 [0m0.664 ms - 18028[0m
+codecsv uploaded to  public/fonts/dd.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'dd.ttf',
+     name: 'dd.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/dd.ttf',
+     extension: 'ttf',
+     size: 3747209,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1452587539434 [32m200 [0m1.960 ms - -[0m
+[0mGET /loadFontlist [32m200 [0m0.696 ms - 10[0m
+[0mGET / [36m304 [0m0.930 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.242 ms - -[0m
+[0mGET /css/main.css [36m304 [0m0.200 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m0.345 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m0.572 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m0.926 ms - -[0m
+[0mPOST /strawFont [0m- [0m- ms - -[0m
+[0mPOST /strawFont [0m- [0m- ms - -[0m
+[0mGET / [36m304 [0m7.305 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m1.343 ms - -[0m
+[0mGET /css/main.css [36m304 [0m3.415 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m2.021 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m2.547 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m0.484 ms - -[0m
+[0mPOST /strawFont [0m- [0m- ms - -[0m
+[0mPOST /strawFont [0m- [0m- ms - -[0m
+[0mPOST /strawFont [0m- [0m- ms - -[0m
+[0mGET / [36m304 [0m1.288 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.210 ms - -[0m
+[0mGET /css/main.css [36m304 [0m0.267 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m0.778 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m1.041 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m0.267 ms - -[0m
+[0mPOST /strawFont [0m- [0m- ms - -[0m
+[master] start master...
+[worker] start worker ...1
+worker1
+1452759586525 'Express server listening on port 8989'
+[master] listening: worker1,pid:1078, Address:0.0.0.0:8989
+[worker] start worker ...3
+worker3
+1452759586543 'Express server listening on port 8989'
+[master] listening: worker3,pid:1082, Address:0.0.0.0:8989
+[worker] start worker ...2
+worker2
+1452759586548 'Express server listening on port 8989'
+[master] listening: worker2,pid:1080, Address:0.0.0.0:8989
+[worker] start worker ...4
+worker4
+1452759586557 'Express server listening on port 8989'
+[master] listening: worker4,pid:1084, Address:0.0.0.0:8989
+[master] start master...
+[worker] start worker ...3
+[worker] start worker ...1
+worker3
+1459840287552 'Express server listening on port 8989'
+worker1
+[master] listening: worker3,pid:15882, Address:null:8989
+1459840287553 'Express server listening on port 8989'
+[master] listening: worker1,pid:15880, Address:null:8989
+[worker] start worker ...2
+worker2
+1459840287567 'Express server listening on port 8989'
+[master] listening: worker2,pid:15881, Address:null:8989
+[worker] start worker ...4
+worker4
+1459840287598 'Express server listening on port 8989'
+[master] listening: worker4,pid:15883, Address:null:8989
+[0mGET / [32m200 [0m10.993 ms - 1222[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m9.753 ms - 117263[0m
+[0mGET /css/main.css [32m200 [0m12.352 ms - 4850[0m
+[0mGET /js/index.js [32m200 [0m2.972 ms - 2559[0m
+[0mGET /js/font_select.js [32m200 [0m8.798 ms - 2940[0m
+[0mGET /js/UILoading.js [32m200 [0m9.113 ms - 1657[0m
+[0mGET /loadFontlist [32m200 [0m9.436 ms - 10[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [32m200 [0m3.337 ms - 18028[0m
+[master] start master...
+[worker] start worker ...2
+[worker] start worker ...4
+worker2
+1467343686463 'Express server listening on port 8989'
+[master] listening: worker2,pid:28666, Address:null:8989
+worker4
+1467343686466 'Express server listening on port 8989'
+[master] listening: worker4,pid:28668, Address:null:8989
+[worker] start worker ...3
+worker3
+1467343686489 'Express server listening on port 8989'
+[master] listening: worker3,pid:28667, Address:null:8989
+[worker] start worker ...1
+worker1
+1467343686494 'Express server listening on port 8989'
+[master] listening: worker1,pid:28665, Address:null:8989
+[0mGET / [32m200 [0m13.509 ms - 1222[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m9.778 ms - 117263[0m
+[0mGET /css/main.css [32m200 [0m17.742 ms - 4850[0m
+[0mGET /js/index.js [32m200 [0m3.923 ms - 2561[0m
+[0mGET /css/straw.ico [32m200 [0m1.137 ms - 1150[0m
+[0mGET /js/font_select.js [32m200 [0m1.247 ms - 2940[0m
+[0mGET /js/UILoading.js [32m200 [0m1.906 ms - 1657[0m
+[0mGET /loadFontlist [32m200 [0m2.161 ms - 12[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [32m200 [0m1.600 ms - 18028[0m
+jinghei.ttf
+codecsv uploaded to  public/fonts/jinghei.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'jinghei.ttf',
+     name: 'jinghei.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/jinghei.ttf',
+     extension: 'ttf',
+     size: 4137248,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1467343715431 [32m200 [0m6.000 ms - -[0m
+[0mGET /loadFontlist [32m200 [0m3.346 ms - 26[0m
+[0mGET / [36m304 [0m3.151 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m2.103 ms - -[0m
+[0mGET /css/main.css [36m304 [0m1.848 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m1.268 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m0.810 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m0.946 ms - -[0m
+not support cmap format:2
+not support cmap format:2
+not support cmap format:2
+[0mGET / [36m304 [0m12.233 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m5.262 ms - -[0m
+[0mGET /css/main.css [36m304 [0m0.969 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m1.858 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m3.519 ms - -[0m
+not support cmap format:2
+[master] start master...
+[worker] start worker ...3
+[worker] start worker ...4
+worker3
+worker4
+1467343809377 'Express server listening on port 8989'
+1467343809377 'Express server listening on port 8989'
+[master] listening: worker3,pid:28677, Address:null:8989
+[master] listening: worker4,pid:28678, Address:null:8989
+[worker] start worker ...1
+worker1
+1467343809394 'Express server listening on port 8989'
+[master] listening: worker1,pid:28675, Address:null:8989
+[worker] start worker ...2
+worker2
+1467343809407 'Express server listening on port 8989'
+[master] listening: worker2,pid:28676, Address:null:8989
+[0mGET / [36m304 [0m16.015 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m5.476 ms - -[0m
+[0mGET /css/main.css [36m304 [0m9.285 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m7.070 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m1.147 ms - -[0m
+not support cmap format:2
+not support cmap format:2
+not support cmap format:2
+[master] start master...
+[worker] start worker ...2
+worker2
+1467344053181 'Express server listening on port 8989'
+[master] listening: worker2,pid:28702, Address:null:8989
+[worker] start worker ...3
+worker3
+1467344053254 'Express server listening on port 8989'
+[master] listening: worker3,pid:28703, Address:null:8989
+[worker] start worker ...1
+worker1
+1467344053305 'Express server listening on port 8989'
+[master] listening: worker1,pid:28701, Address:null:8989
+[worker] start worker ...4
+worker4
+1467344053313 'Express server listening on port 8989'
+[master] listening: worker4,pid:28704, Address:null:8989
+[0mGET / [36m304 [0m10.786 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m5.165 ms - -[0m
+[0mGET /css/main.css [36m304 [0m9.194 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m9.243 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m2.282 ms - -[0m
+[ '/temp/hupo/hupo.ttf',
+  '/temp/hupo/hupo.svg',
+  '/temp/hupo/hupo.woff',
+  '/temp/hupo/hupo.eot' ]
+[0mPOST /strawFont [32m200 [0m3081.010 ms - 1333[0m
+[0mGET /temp/hupo/hupo.woff [32m200 [0m2.814 ms - 1376[0m
+wwfwef
+[0mGET /downFiels?fontname=hupo&fonttext=wwfwef [32m200 [0m19.326 ms - -[0m
+not support cmap format:2
+not support cmap format:2
+not support cmap format:2
+[0mGET / [36m304 [0m14.481 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m4.628 ms - -[0m
+[0mGET /css/main.css [36m304 [0m5.422 ms - -[0m
+[0mGET /js/index.js [36m304 [0m0.400 ms - -[0m
+[0mGET /js/font_select.js [36m304 [0m0.915 ms - -[0m
+[0mGET /js/UILoading.js [36m304 [0m1.155 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m3.065 ms - -[0m
+Chalkduster.ttf
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m27.451 ms - -[0m
+codecsv uploaded to  public/fonts/Chalkduster.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'Chalkduster.ttf',
+     name: 'Chalkduster.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/Chalkduster.ttf',
+     extension: 'ttf',
+     size: 483652,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1467344396982 [32m200 [0m4.791 ms - -[0m
+[0mGET /loadFontlist [32m200 [0m1.533 ms - 44[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[master] start master...
+[worker] start worker ...4
+worker4
+1467344410135 'Express server listening on port 8989'
+[master] listening: worker4,pid:28723, Address:null:8989
+[worker] start worker ...3
+worker3
+1467344410168 'Express server listening on port 8989'
+[master] listening: worker3,pid:28722, Address:null:8989
+[worker] start worker ...1
+worker1
+[worker] start worker ...2
+1467344410262 'Express server listening on port 8989'
+[master] listening: worker1,pid:28720, Address:null:8989
+worker2
+1467344410268 'Express server listening on port 8989'
+[master] listening: worker2,pid:28721, Address:null:8989
+[0mGET / [36m304 [0m11.125 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m3.524 ms - -[0m
+[0mGET /css/main.css [36m304 [0m8.518 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m3.370 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m4.335 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m1.012 ms - -[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[master] start master...
+[worker] start worker ...3
+[worker] start worker ...1
+worker3
+worker1
+1467344426568 'Express server listening on port 8989'
+1467344426569 'Express server listening on port 8989'
+[master] listening: worker3,pid:28727, Address:null:8989
+[master] listening: worker1,pid:28725, Address:null:8989
+[worker] start worker ...2
+worker2
+1467344426582 'Express server listening on port 8989'
+[master] listening: worker2,pid:28726, Address:null:8989
+[worker] start worker ...4
+worker4
+1467344426589 'Express server listening on port 8989'
+[master] listening: worker4,pid:28728, Address:null:8989
+[0mGET / [36m304 [0m10.867 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m3.812 ms - -[0m
+[0mGET /css/main.css [36m304 [0m6.274 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m5.761 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m5.470 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m1.195 ms - -[0m
+[ '/temp/hupo/hupo.ttf',
+  '/temp/hupo/hupo.svg',
+  '/temp/hupo/hupo.woff',
+  '/temp/hupo/hupo.eot' ]
+[0mPOST /strawFont [32m200 [0m2709.692 ms - 1339[0m
+123123123132
+[0mGET /downFiels?fontname=hupo&fonttext=123123123132 [32m200 [0m15.309 ms - -[0m
+123123123132
+[0mGET /downFiels?fontname=hupo&fonttext=123123123132 [32m200 [0m3.467 ms - -[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[0mGET / [36m304 [0m28.297 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m9.747 ms - -[0m
+[0mGET /css/main.css [36m304 [0m10.990 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m4.232 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m3.801 ms - -[0m
+chalkduster.ttf
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m1.479 ms - -[0m
+codecsv uploaded to  public/fonts/chalkduster.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'chalkduster.ttf',
+     name: 'chalkduster.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/chalkduster.ttf',
+     extension: 'ttf',
+     size: 483652,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1467344575534 [32m200 [0m7.043 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m1.420 ms - -[0m
+[0mGET / [36m304 [0m2.188 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.921 ms - -[0m
+[0mGET /css/main.css [36m304 [0m1.910 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m1.267 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m0.862 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m4.040 ms - -[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[master] start master...
+[worker] start worker ...2
+worker2
+1467344589695 'Express server listening on port 8989'
+[master] listening: worker2,pid:28743, Address:null:8989
+[worker] start worker ...3
+worker3
+1467344589706 'Express server listening on port 8989'
+[master] listening: worker3,pid:28744, Address:null:8989
+[worker] start worker ...1
+worker1
+1467344589719 'Express server listening on port 8989'
+[master] listening: worker1,pid:28742, Address:null:8989
+[worker] start worker ...4
+worker4
+1467344589810 'Express server listening on port 8989'
+[master] listening: worker4,pid:28745, Address:null:8989
+[0mGET / [36m304 [0m20.011 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m4.195 ms - -[0m
+[0mGET /css/main.css [36m304 [0m12.951 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m5.295 ms - 1150[0m
+[0mGET /loadFontlist [32m200 [0m9.258 ms - 24[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m1.418 ms - -[0m
+chalkduster.ttf
+codecsv uploaded to  public/fonts/chalkduster.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'chalkduster.ttf',
+     name: 'chalkduster.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/chalkduster.ttf',
+     extension: 'ttf',
+     size: 483652,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1467344635798 [32m200 [0m6.867 ms - -[0m
+[0mGET /loadFontlist [32m200 [0m2.269 ms - 42[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[0mGET /strawFont [0m- [0m- ms - -[0m
+[0mGET / [36m304 [0m16.183 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m4.168 ms - -[0m
+[0mGET /css/main.css [36m304 [0m5.794 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m3.823 ms - -[0m
+[0mGET / [36m304 [0m7.418 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m2.009 ms - -[0m
+[0mGET /css/main.css [36m304 [0m2.038 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m2.825 ms - -[0m
+keyboard.ttf
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m0.927 ms - -[0m
+codecsv uploaded to  public/fonts/keyboard.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'keyboard.ttf',
+     name: 'keyboard.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/keyboard.ttf',
+     extension: 'ttf',
+     size: 55840,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1467344873266 [32m200 [0m5.913 ms - -[0m
+[0mGET /loadFontlist [32m200 [0m1.168 ms - 57[0m
+[ '/temp/keyboard/keyboard.ttf',
+  '/temp/keyboard/keyboard.svg',
+  '/temp/keyboard/keyboard.woff',
+  '/temp/keyboard/keyboard.eot' ]
+[0mPOST /strawFont [32m200 [0m173.894 ms - 1415[0m
+[0mGET /temp/keyboard/keyboard.woff [32m200 [0m2.012 ms - 568[0m
+afadsfsdfsdafasf
+[0mGET /downFiels?fontname=keyboard&fonttext=afadsfsdfsdafasf [32m200 [0m25.590 ms - -[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[master] start master...
+[worker] start worker ...1
+[worker] start worker ...3
+[worker] start worker ...4
+worker1
+worker3
+worker4
+1467344897178 'Express server listening on port 8989'
+1467344897177 'Express server listening on port 8989'
+1467344897178 'Express server listening on port 8989'
+[master] listening: worker4,pid:28772, Address:null:8989
+[master] listening: worker3,pid:28771, Address:null:8989
+[master] listening: worker1,pid:28769, Address:null:8989
+[worker] start worker ...2
+worker2
+1467344897205 'Express server listening on port 8989'
+[master] listening: worker2,pid:28770, Address:null:8989
+[0mGET / [36m304 [0m12.244 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m3.273 ms - -[0m
+[0mGET /css/main.css [36m304 [0m7.283 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m3.415 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m5.674 ms - -[0m
+[0mGET /css/glyphicons-halflings-regular.woff2 [36m304 [0m1.561 ms - -[0m
+[ '/temp/keyboard/keyboard.ttf',
+  '/temp/keyboard/keyboard.svg',
+  '/temp/keyboard/keyboard.woff',
+  '/temp/keyboard/keyboard.eot' ]
+[0mPOST /strawFont [32m200 [0m188.377 ms - 1409[0m
+5345345435
+[0mGET /downFiels?fontname=keyboard&fonttext=5345345435 [32m200 [0m14.698 ms - -[0m
+[master] start master...
+[worker] start worker ...1
+worker1
+1467345196655 'Express server listening on port 8989'
+[master] listening: worker1,pid:28810, Address:null:8989
+[worker] start worker ...3
+worker3
+1467345196677 'Express server listening on port 8989'
+[master] listening: worker3,pid:28812, Address:null:8989
+[worker] start worker ...2
+worker2
+1467345196691 'Express server listening on port 8989'
+[master] listening: worker2,pid:28811, Address:null:8989
+[worker] start worker ...4
+worker4
+1467345196730 'Express server listening on port 8989'
+[master] listening: worker4,pid:28813, Address:null:8989
+[0mGET / [36m304 [0m9.956 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m3.526 ms - -[0m
+[0mGET / [36m304 [0m1.645 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m2.919 ms - -[0m
+[0mGET /css/main.css [36m304 [0m14.924 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m6.167 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m6.186 ms - -[0m
+[0mGET / [36m304 [0m6.055 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.690 ms - -[0m
+[0mGET /css/main.css [36m304 [0m1.449 ms - -[0m
+[0mGET /css/straw.ico [32m200 [0m3.088 ms - 1150[0m
+[0mGET /loadFontlist [36m304 [0m0.838 ms - -[0m
+jdyt.ttf
+codecsv uploaded to  public/fonts/jdyt.ttf
+{ codecsv: 
+   { fieldname: 'codecsv',
+     originalname: 'jdyt.ttf',
+     name: 'jdyt.ttf',
+     encoding: '7bit',
+     mimetype: 'application/octet-stream',
+     path: 'public/fonts/jdyt.ttf',
+     extension: 'ttf',
+     size: 3747209,
+     truncated: false,
+     buffer: null } }
+[0mPOST /uploadFiels?_=1467345266317 [32m200 [0m5.621 ms - -[0m
+[0mGET /loadFontlist [32m200 [0m2.956 ms - 68[0m
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[TypeError: Cannot read property 'unicode' of undefined]
+[0mGET / [36m304 [0m11.818 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m6.359 ms - -[0m
+[0mGET /css/main.css [36m304 [0m5.239 ms - -[0m
+[0mGET /loadFontlist [36m304 [0m2.979 ms - -[0m
+[master] start master...
+[worker] start worker ...1
+[worker] start worker ...2
+[worker] start worker ...4
+[worker] start worker ...3
+[master] start master...
+[worker] start worker ...3
+[worker] start worker ...1
+[worker] start worker ...2
+[worker] start worker ...4
+[master] start master...
+[worker] start worker ...1
+[worker] start worker ...3
+[worker] start worker ...2
+[worker] start worker ...4
+[master] start master...
+[worker] start worker ...1
+[worker] start worker ...2
+[worker] start worker ...4
+[worker] start worker ...3
